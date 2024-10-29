@@ -28,4 +28,3 @@ if st.button("Calculate"):
         else:
             result = num1 / num2
             st.write(f"The result of {num1} / {num2} is: {result}")
-
